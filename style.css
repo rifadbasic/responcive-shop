@@ -341,10 +341,6 @@ footer h1{
     
   }
 
-  .menu ul:last-child{
-    border: none;
-    
-  }
   .products-item{
     display: flex;
     flex-wrap: wrap;
