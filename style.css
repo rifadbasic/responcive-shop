@@ -336,11 +336,14 @@ footer h1{
   }
 
   .menu ul li a{
-    border: 1px solid tomato;
-    border-radius: 5px;
-    padding: 5px 5px;
-    margin: 5px;
-    list-style: none;
+    border-right: 1px solid tomato;
+    padding: 0 5px;
+    
+  }
+
+  .menu ul:last-child{
+    border: none;
+    
   }
   .products-item{
     display: flex;
